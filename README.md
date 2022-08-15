@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **a fashion ecommerce website**
 
-- 🌱 I’m currently learning **Flutter & Dart,Django**
+- 🌱 I’m currently learning **Flutter & Dart, Django**
 
-- 💬 Ask me about **Java,Data Analytics**
+- 💬 Ask me about **Java, Data Analytics**
 
 - 📫 How to reach me **20eucs182@skcet.ac.in**
 
-- ⚡ Fun fact **Dan Brown's 'Digital Fortress' made me choose a computer science major - now 1's and 0's interests me more than people**
+- ⚡ Fun fact **Dan Brown's 'Digital Fortress' made me choose a computer science major - now 1's and 0's interest me more than people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
