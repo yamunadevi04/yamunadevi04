@@ -12,7 +12,7 @@
 
 💬 Ask me anything about SketchUp, AI/ML Experiments, coffee & sitcoms
 
-⚡ **Fun fact**: Thank **Gilmore Girls** for my love of coffee ☕ and my obsession with learning—both got me where I am today. Still a long way to go ✈️💻
+⚡ **Fun fact**: Thank **Gilmore Girls** for my love for coffee ☕ and my obsession with learning - both got me where I am today. Still a long way to go ✈️ 💻
   
 📫 How to reach me **yamuna2813@gmail.com**
 
