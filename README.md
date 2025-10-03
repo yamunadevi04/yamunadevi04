@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icarusdagger&label=Profile%20views&color=0e75b6&style=flat" alt="icarusdagger" /> </p>
 
-- 🔭 I’m currently working as a Fullstack Software Developer in SketchUp AI, Trimble
+🔭 I’m currently working as a Fullstack Software Developer in SketchUp AI, Trimble
 
-- 🌱 I’m currently learning AI/ML, Swift/IOS Development
+🌱 I’m currently learning AI/ML, Swift/IOS Development
 
-- 💬 Ask me anything about SketchUp, AI/ML Experiments, coffee & sitcoms
+💬 Ask me anything about SketchUp, AI/ML Experiments, coffee & sitcoms
 
-- 📫 How to reach me **yamuna2813@gmail.com**
-
-- ⚡ Fun fact **Thank ***Gilmore Girls*** for my love for coffee and obsession for learning - both got me where I am today. Still a long way to go ✈️💻 **
+⚡ **Fun fact**: Thank **Gilmore Girls** for my love of coffee ☕ and my obsession with learning—both got me where I am today. Still a long way to go ✈️💻
+  
+📫 How to reach me **yamuna2813@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
